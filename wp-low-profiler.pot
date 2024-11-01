@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Robert Mahfoud
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-low-profiler\n"
+"POT-Creation-Date: 2009-07-24 08:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-low-profiler.php:213
+msgid "Post low Profile Attributes"
+msgstr ""
+
+#: wp-low-profiler.php:214
+msgid "Page low Profile Attributes"
+msgstr ""
+
+#: wp-low-profiler.php:243
+msgid "Hide on the front page."
+msgstr ""
+
+#: wp-low-profiler.php:245
+msgid "Hide on category pages."
+msgstr ""
+
+#: wp-low-profiler.php:247
+msgid "Hide on tag page(s)."
+msgstr ""
+
+#: wp-low-profiler.php:249
+msgid "Hide on author pages."
+msgstr ""
+
+#: wp-low-profiler.php:251
+msgid "Hide in date archives (month, day, year, etc...)"
+msgstr ""
+
+#: wp-low-profiler.php:253
+msgid "Hide in search results."
+msgstr ""
+
+#: wp-low-profiler.php:255
+msgid "Hide in feed(s)."
+msgstr ""
+
+#: wp-low-profiler.php:257 wp-low-profiler.php:297
+msgid "Leave feedback and report bugs..."
+msgstr ""
+
+#: wp-low-profiler.php:259 wp-low-profiler.php:299
+msgid "Give 'WP low Profiler' a good rating..."
+msgstr ""
+
+#: wp-low-profiler.php:282
+msgid "Show normally everywhere."
+msgstr ""
+
+#: wp-low-profiler.php:285
+msgid "Hide when listing pages on the front page."
+msgstr ""
+
+#: wp-low-profiler.php:288
+msgid "Hide everywhere pages are listed."
+msgstr ""
+
+#: wp-low-profiler.php:290
+msgid "Keep in search results."
+msgstr ""
+
+#: wp-low-profiler.php:417 wp-low-profiler.php:420
+#, php-format
+msgid ""
+"%1$s has been deprecated and replaced by <a href=\"http://wordpress.org/"
+"extend/plugins/wp-hide-post/\">WP Hide Post</a>."
+msgstr ""
+
+#: wp-low-profiler.php:419
+msgid "Upgrade now!"
+msgstr ""
+
+#. Plugin Name of an extension
+msgid "WP low Profiler"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://anappleaday.konceptus.net/posts/wp-low-profiler/"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Enables a user to create \"low profile\" posts and pages that are "
+"selectively hidden in different views throughout the blog, such as on the "
+"front page, category pages, search results, etc... The hidden item remains "
+"otherwise accessible directly using the permalink, and also visible to "
+"search engines as part of the sitemap. This plugin enables new SEO "
+"possibilities for authors since it enables them to create new posts and "
+"pages without being forced to display them on their front and in feeds."
+msgstr ""
+
+#. Author of an extension
+msgid "Robert Mahfoud"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://anappleaday.konceptus.net"
+msgstr ""
